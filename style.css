@@ -1,0 +1,30 @@
+
+body {
+	width:755px;
+	margin:10px auto;
+	font-family: Alright Sans,sans-serif;
+	font-weight: 400;
+	font-size: 1.15em;
+	webkit-font-smoothing: antialiased
+	background-color: #f1f3f2;
+	color: #4c4e4d;
+	overflow-x: hidden;
+}
+
+h1 {
+	font-family: Balto,sans-serif;
+	font-weight: 700;
+	font-size: 3em;
+	color: #4c4e4d;
+	wdith:977px;
+	box-sizing: border-box;
+	webkit-margin-before: 0.83em;
+	webkit-margin-after: 0.83em;
+	webkit-margin-start: 0px;
+	webkit-margin-end: 0px;
+	background-color: #fff200;
+}
+
+img {
+	float: center;
+}
